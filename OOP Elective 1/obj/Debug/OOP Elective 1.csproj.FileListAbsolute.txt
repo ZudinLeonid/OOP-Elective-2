@@ -1,0 +1,7 @@
+C:\Users\User\Documents\ТУСУР\ЭЛКОМ+\OOP Elective 1\bin\Debug\OOP Elective 1.exe.config
+C:\Users\User\Documents\ТУСУР\ЭЛКОМ+\OOP Elective 1\bin\Debug\OOP Elective 1.exe
+C:\Users\User\Documents\ТУСУР\ЭЛКОМ+\OOP Elective 1\bin\Debug\OOP Elective 1.pdb
+C:\Users\User\Documents\ТУСУР\ЭЛКОМ+\OOP Elective 1\obj\Debug\OOP Elective 1.csproj.AssemblyReference.cache
+C:\Users\User\Documents\ТУСУР\ЭЛКОМ+\OOP Elective 1\obj\Debug\OOP Elective 1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ТУСУР\ЭЛКОМ+\OOP Elective 1\obj\Debug\OOP Elective 1.exe
+C:\Users\User\Documents\ТУСУР\ЭЛКОМ+\OOP Elective 1\obj\Debug\OOP Elective 1.pdb
